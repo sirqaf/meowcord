@@ -396,7 +396,7 @@ a[href="https://support.discord.com"] /* hide help */
 	height: 100%;
 	background: var(--accent-4);
 	-webkit-mask-image: url('https://raw.githubusercontent.com/sirqaf/meowcord/9e65f23ec8b5de825bf86932702fc7f0a3b41f3b/img/svgviewer-output.svg');
-	-webkit-mask-size: 50px 50px;
+	-webkit-mask-size: 60px 60px;
 	-webkit-mask-position: center;
 }
 .wrapper_d281dd:hover .childWrapper__01b9c::before {
