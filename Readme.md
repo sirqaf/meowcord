@@ -1,4 +1,4 @@
-# midnight
+# meowcord
 
 A meow discord theme.
 
