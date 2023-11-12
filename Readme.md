@@ -5,6 +5,7 @@ A meow discord theme.
 <img width=800 src="https://github.com/sirqaf/meowcord/blob/main/img/Screenshot%20(10).png?raw=true">
 <img width=800 src="https://github.com/sirqaf/meowcord/blob/main/img/Screenshot%20(8).png?raw=true">
 <img width=800 src="https://github.com/sirqaf/meowcord/blob/main/img/Screenshot%20(11).png?raw=true">
+
 ## install
 
 > [!IMPORTANT]  
