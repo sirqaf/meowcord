@@ -44,7 +44,7 @@
 	/* color of dark buttons */
 	--bg-2: hsl(212, 31%, 48%); 
 	/* color of spacing around panels and secondary elements */
-	--bg-3: hsl(220, 15%, 10%);
+	--bg-3: hsl(0, 0%, 7%);
 	/* main background color */
 	--bg-4: hsl(212, 31%, 0%);
 
