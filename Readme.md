@@ -1,6 +1,6 @@
 # meowcord
 
-A meow discord theme.
+A dark and minimalist discord theme.
 
 <img width=800 src="https://github.com/sirqaf/meowcord/blob/main/img/Screenshot%20(10).png?raw=true">
 <img width=800 src="https://github.com/sirqaf/meowcord/blob/main/img/Screenshot%20(8).png?raw=true">
