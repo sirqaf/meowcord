@@ -13,6 +13,11 @@ A meow discord theme.
 2. (optional) Copy and paste the contents of `meowcord.theme.css` into your quickcss file.
 3. (optional) Customize the variables in quickcss.
 
+### other modded discord
+
+1. Download `meowcord.theme.css` into the theme folder.
+2. (optional) Customize the variables in quickcss.
+
 ## credits
 
 <https://github.com/refact0r/midnight-discord>
