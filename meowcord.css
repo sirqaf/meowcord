@@ -69,7 +69,7 @@
 
 /* modify colors */
 #app-mount .container__590e2 /* channel list */,
-.privateChannels__93473 /* dms list */,
+.privateChannels__9b518 /* dms list */,
 #app-mount .container_ca50b9 /* user panel inner */,
 .container_b2ce9c /* member list */,
 .members__9f47b /* member list inner */,
@@ -107,7 +107,7 @@
 }
 .chat__52833 /* chat + member list */,
 .sidebar_ded4b5 /* channel sidebar */,
-.privateChannels__93473 .scroller__4b984 /* dms list inner */,
+.privateChannels__9b518 .scroller__89969 /* dms list inner */,
 .theme-dark .innerHeader_afca2f:after /* channels and roles header shadow */ {
 	background: none;
 }
