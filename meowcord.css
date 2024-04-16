@@ -385,10 +385,10 @@ a[href="https://support.discord.com"] /* hide help */
 }
 
 /* add cat */
-.childWrapper__01b9c > svg {
+.childWrapper___a6ce15 > svg {
 	display: var(--discord-icon);
 }
-.childWrapper__01b9c:has(> svg)::before {
+.childWrapper___a6ce15:has(> svg)::before {
 	content: '';
 	display: var(--cat-icon);
 	position: absolute;
@@ -399,12 +399,12 @@ a[href="https://support.discord.com"] /* hide help */
 	-webkit-mask-size: 55px 55px;
 	-webkit-mask-position: center;
 }
-.wrapper_d281dd:hover .childWrapper__01b9c::before {
+.wrapper_8436d:hover .childWrapper___a6ce15::before {
 	transition: background-color 0.15s ease-out, transform 0.3s ease-out;
 	transform: rotate(0deg) scale(1);
 }
-.wrapper_d281dd:hover > .childWrapper__01b9c::before,
-.wrapper_d281dd.selected_f5ec8e > .childWrapper__01b9c::before {
+.wrapper_8436d:hover > .childWrapper___a6ce15::before,
+.wrapper_8436d.selected_ae80f7 > .childWrapper___a6ce15::before {
 	background: var(--text-1);
 	transform: rotate(-360deg) scale(0.8);
 }
